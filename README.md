@@ -1,0 +1,2 @@
+# selam-
+hesaap bilgilerini alma
